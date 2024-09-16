@@ -15,7 +15,7 @@ Python is a computer programming language often used to build websites and softw
 👌🏻 For learning it is easy and to use: Python is easy to learn and use, even for beginners. The syntax is plain and 
 straightforward, almost like writing in English.
 
-Object-oriented: Python is an object-oriented programming language that has highlights such as code reusability and
+Object-oriented: Python is an object-onted programming language that has highlights such as code reusability and
  measured quality. It supports highlights such as abstraction, encapsulation, inheritance and polymorphism.
  
 💻 Interpreted: Python is an interpreted language, which implies line by line the code is executed. This makes the 
@@ -89,3 +89,4 @@ DevOps: 🚀 Python is used extensively in the DevOps community for tasks such a
  
 Finance: 💰 Python is widely used for quantitative analysis, algorithmic trading, and risk management. Banks such as JPMorgan and Goldman Sachs use Python for financial modeling and analysis.
 Healthcare: 🩺 Python is used for medical imaging, data analysis, and research. The National Institutes of Health (NIH) uses Python for genomic data analysis.
+notes/1.intropython.txt

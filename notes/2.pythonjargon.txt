@@ -12,3 +12,5 @@ Pip is a package manager for Python that is used to install and manage Python pa
 pip install ?name of module?
 
 3. variable
+
+notes/2.pythonjargon.txt

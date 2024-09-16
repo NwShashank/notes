@@ -1,0 +1,109 @@
+GIT = software that tracks every change of code just like bank statement of codes
+uses of GIT
+- used to track history of changes in codes
+- help to colaborate 
+- tarck changes of codes
+
+**github version checking codes git --version
+**github name updating code = git config --global user.name "Nwshashank"
+**github email  updating code = git config --global user.email "shashank.wo12@gmail.com"
+
+check which account connected to git= git config --list
+
+
+
+GITHUB = it is like depositary of codes so called the repositary
+-github website helps to store codes and help if we want to change any code
+-instagram of code 
+-change of code in github is called the commit 
+
+important command of the 
+ 1. CLONE COMMAND 
+  cloning a repositary from remote to the local machine (Remote = github account) (local = laptop or PC )
+
+  COMMAND
+  git clone (link of code from github account)
+
+  -to find files in github 
+  ls= list command
+   cd or (name of github folder)  ls
+   
+2.  STATUS COMMAND to find STATUS
+   cd or (name of github folder) git status
+
+   **TYPES OF FILES
+   1. untracked files 
+   files on vs code but not on git
+   git cannot track this files
+
+   2. modified files 
+   changes in files
+
+   3. unmodified files
+   no changes files
+
+   4. staged files
+   file ready to committed 
+
+(ADDING FILES OR CHANGES IN CODE IS 2 WAY PROCESS ADD AND COMMIT COMMAND)
+(cd.. )
+see cd means you need to under that folder
+
+3. ADD COMMAND
+  add new or changed files in your working github stage 1 PROCESS
+
+  command
+
+cd git add . (dot)
+then do git status 
+you will get message changes done
+
+4. COMMIT COMMAND
+record that change in code
+
+git commit -m "message that you changed"
+
+above command dont change code on github but change it in local pc
+
+5.PUSH COMMAND
+this command do changes of local pc to the GITHUB account
+
+command
+git push origin main
+
+sometime it not push the changes
+git fetch origin main:tmp
+git rebase tmp
+git push
+
+
+6. INIT COMMAND
+help to add new repositary i n github from vs code
+
+command
+git INIT (of folder)
+
+
+git remote add origin (link of the github) (gitub ke repositay link iss folder sa judd gayeee}
+git branch {to check branch}
+git branch -m (change name of branch)
+
+
+CHANGING REPOSITARY OF folder
+
+
+1. what is current repositary
+ git remote -v
+
+2. git remote set-url origin (new repositary link)
+
+
+git remote add origin https://github.com/NwShashank/notes.git
+git add <1notes>
+git add 0.1command.txt
+git add 0.1commands.txt
+E:\codes\notes\0.3vscodeformula.txt
+git add 0.3vscodeformula.txt
+git add 1.coding & intro to python .txt
+git add 3.learninggit&github.txt
+git add 3.learngit&github.txt
