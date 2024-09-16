@@ -1,0 +1,14 @@
+- PRINT ("what you want to  print")
+
+- IMPORT tensorflow
+
+- #                      to add single comment
+- """
+
+"""                 to add multiline comment
+
+- PRINT MORE THAN 1 LINE OF CODE
+PRINT {'''
+
+'''}
+

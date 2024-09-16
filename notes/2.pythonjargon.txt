@@ -1,0 +1,14 @@
+1. MODULES
+*A module in Python is a file that contains Python code, such as functions, classes, variables, and methods, 
+that can be imported into another Python program
+*an code written by someone else 
+ex tensorflow
+
+2. PIP
+**a manger that install modules in the python
+Pip is a package manager for Python that is used to install and manage Python packages and their dependencies
+
+--code---
+pip install ?name of module?
+
+3. variable

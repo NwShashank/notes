@@ -1,0 +1,6 @@
+F1= TO RUN CODE
+
+ALT + CLCIK= RUN MULTIPLE CURSOR
+ALT + SHIFT + MOUSE SELECTION IN ONE LINE = STRAIGHT MULTIPLE CURSOR
+cd.. = get out of folder or go to previous branch
+mkdir = make new path/folder
