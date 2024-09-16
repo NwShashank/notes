@@ -107,3 +107,4 @@ git add 0.3vscodeformula.txt
 git add 1.coding & intro to python .txt
 git add 3.learninggit&github.txt
 git add 3.learngit&github.txt
+git add 0.2vscode.learn.txt
